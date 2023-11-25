@@ -1,0 +1,26 @@
+{
+    "version": "5.1.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "box",
+            "points": [
+                [
+                    329,
+                    636
+                ],
+                [
+                    1275,
+                    1131
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "47_3_6.jpg",
+    "imageData": null,
+    "imageHeight": 2016,
+    "imageWidth": 1512
+}

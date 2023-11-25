@@ -1,0 +1,42 @@
+{
+    "version": "5.1.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "box",
+            "points": [
+                [
+                    508,
+                    107
+                ],
+                [
+                    1265,
+                    1451
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "damage",
+            "points": [
+                [
+                    928,
+                    548
+                ],
+                [
+                    1025,
+                    610
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "10_1_5.jpg",
+    "imageData": null,
+    "imageHeight": 1512,
+    "imageWidth": 2016
+}

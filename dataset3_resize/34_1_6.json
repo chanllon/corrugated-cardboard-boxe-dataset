@@ -1,0 +1,26 @@
+{
+    "version": "5.1.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "box",
+            "points": [
+                [
+                    624,
+                    296
+                ],
+                [
+                    1806,
+                    1394
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "34_1_6.jpg",
+    "imageData": null,
+    "imageHeight": 1512,
+    "imageWidth": 2016
+}
